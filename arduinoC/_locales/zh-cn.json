@@ -1,0 +1,21 @@
+{
+    "DFRobot_SEN0233_AirQualityMonitor.beginSoftSerial|block": "空气质量传感器 初始化为 [SSER] Rx [SSRXD] Tx[SSTXD] ",
+    "DFRobot_SEN0233_AirQualityMonitor.beginSerial|block": "空气质量传感器 初始化为 [SER] Rx [RXD] Tx [TXD]",
+    "DFRobot_SEN0233_AirQualityMonitor.readSensor|block": "空气质量传感器 读取刷新一次数据",
+    "DFRobot_SEN0233_AirQualityMonitor.readDate|block": "空气质量传感器 读取[DAT]数据",
+    "DFRobot_SEN0233_AirQualityMonitor.DAT.PM2.5|menu": "PM2.5",
+    "DFRobot_SEN0233_AirQualityMonitor.DAT.Formaldehyde|menu": "甲醛",
+    "DFRobot_SEN0233_AirQualityMonitor.DAT.Temperature|menu": "温度",
+    "DFRobot_SEN0233_AirQualityMonitor.DAT.Humidity|menu": "湿度",
+    "DFRobot_SEN0233_AirQualityMonitor.DE.enable|menu": "打开",
+    "DFRobot_SEN0233_AirQualityMonitor.DE.disable|menu": "关闭",
+    "DFRobot_SEN0233_AirQualityMonitor.SER.Serial|menu": "硬串口",
+    "DFRobot_SEN0233_AirQualityMonitor.SER.Serial1|menu": "硬串口1",
+    "DFRobot_SEN0233_AirQualityMonitor.SER.Serial2|menu": "硬串口2",
+    "DFRobot_SEN0233_AirQualityMonitor.SSER.softwareSerial|menu": "软串口",
+    "DFRobot_SEN0233_AirQualityMonitor.SSER.softwareSerial1|menu": "软串口1",
+    "DFRobot_SEN0233_AirQualityMonitor.SSER.softwareSerial2|menu": "软串口2",
+    "DFRobot_SEN0233_AirQualityMonitor.SSER.softwareSerial3|menu": "软串口3",
+    "DFRobot_SEN0233_AirQualityMonitor.SSER.softwareSerial4|menu": "软串口4"
+
+}
